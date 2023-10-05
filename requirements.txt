@@ -58,6 +58,7 @@ seaborn
 sip
 six
 stack-data
+streamlit
 threadpoolctl
 toml
 tornado
